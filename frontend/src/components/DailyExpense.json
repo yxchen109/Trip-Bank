@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "category": "早餐",
+      "amount": 1000,
+      "date":"12/8",
+      "name": "章魚燒",
+      "addr": "大阪府大阪市中央区宗右衛門町 7-19",
+      "currency": "YEN"
+    },
+    {
+      "id": 2,
+      "category": "中餐",
+      "amount": 2000,
+      "date":"12/8",
+      "name": "新世界元祖串炸",
+      "addr": "大阪市中央区道頓堀 1-6-4",
+      "currency": "YEN"
+    },
+    {
+      "id": 3,
+      "category": "晚餐",
+      "amount": 3000,
+      "date":"12/9",
+      "name": "花丸軒",
+      "addr": "大阪府大阪市中央区難波１丁目２−1",
+      "currency": "YEN"
+    },
+    {
+        "id": 3,
+        "category": "點心",
+        "amount": 2000,
+        "date":"12/10",
+        "name": "鯛白湯らーめん",
+        "addr": "大阪府大阪市淀川区西宮原 1-5-6",
+        "currency": "YEN"
+    },
+    {
+        "id": 4,
+        "category": "中餐",
+        "amount": 1000,
+        "date":"12/11",
+        "name": "壽司星山",
+        "addr": "大阪府大阪市北区菅原町１−16 TILLIT’S HUS 1 階",
+        "currency": "YEN"
+    }
+  ]
